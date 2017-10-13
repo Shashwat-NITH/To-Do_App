@@ -1,6 +1,6 @@
 # Any.Do
 
-Please feel free to raise issues and send PRs wherever there is a scope.
+Please feel free to raise issues and send PRs wherever there is any scope of improvment.
 
 ## Getting Started
 
